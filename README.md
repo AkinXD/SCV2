@@ -20,4 +20,4 @@ $ git clone https://github.com/AkinXD/SCV2
 
 $ cd SCV2
 
-$ python2 
+$ python2 Scv2.pyc
